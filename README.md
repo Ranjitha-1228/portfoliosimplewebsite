@@ -10,7 +10,7 @@ Welcome to my portfolio website! It was creating HTML and basic CSS to provide a
 
 ## How to view
 
-You can view a live demo of the portfolio website at [link]
+You can view the portfolio website at [link="https://ranjitha-1228.github.io/portfoliosimplewebsite/"]
 
 ## Technologies Used
 
